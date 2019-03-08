@@ -1,4 +1,4 @@
-# aardvarks
+# Dining Aardvarks
 Philosophers' table with a twist : aardvarks eating ants from anthills
 
 One of the most famous problems in concurrency is that of the "Dining Philosophers", who must share knives and forks in a concurrent manner.
